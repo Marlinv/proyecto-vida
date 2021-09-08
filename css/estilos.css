@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500&display=swap');
 
 body{
-    background-color:#1e1f20;
+    background-image: url(./proyecto-vida-mv-2021/imagenes/rojo-y-azul-quebraduras.jpg);
     font-family: 'Kaisei HarunoUmi', serif;
 }
 
 h1, h2 {
-    color: white;
+    color: black;
 }
 
 p, ul, li {
-    color: white;
+    color: black;
 }
 
 a{
