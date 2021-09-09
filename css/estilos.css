@@ -1,18 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500&display=swap');
 
-body{
-    background-image: url(./proyecto-vida-mv-2021/imagenes/rojo-y-azul-quebraduras.jpg);
+body.portada {
+    background-image: url(../imagenes/portada-principal.jpg);
     font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
 }
 
-h1, h2 {
+body.esta_soy_yo {
+    text-decoration-color: black; 
+    font-family: 'Kaisei HarunoUmi', serif;    
+}
+
+body.que_me_hace_unica {
+    text-align: center;
+}
+
+
+h1 {
     color: black;
-}
+    text-align: initial;
 
+}
 p, ul, li {
     color: black;
 }
 
-a{
-    text-align: center;
+a {
+    text-decoration: none;
 }
+
+nav a {
+color: white;
+}
+
+
