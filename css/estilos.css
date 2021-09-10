@@ -1,26 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500&display=swap');
 
-body.portada {
-    background-image: url(../imagenes/portada-principal.jpg);
-    font-family: 'Kaisei HarunoUmi', serif;
-    text-align: center;
+
+body.portada{
+    background-image: url(../imagenes/portada-principal.jpg); 
 }
 
-body.esta_soy_yo {
+h1 {
+    font-family: 'Kaisei HarunoUmi', serif;
+    text-align: center;
+    color: white;
+    line-height: 600px;
+}
+
+i {
+    color: white;
+}
+.contenerdor2 {
     text-decoration-color: black; 
     font-family: 'Kaisei HarunoUmi', serif;    
 }
 
-body.que_me_hace_unica {
+.contenerdor3 {
     text-align: center;
 }
 
-
-h1 {
-    color: black;
-    text-align: initial;
+.contenerdor4 {
 
 }
+
+.contenerdor5 {
+
+}
+
+.contenerdor6 {
+    background-color: black;
+
+}
+
+.contenerdor7 {
+
+}
+
+.contenerdor8 {
+
+}
+
+.contenerdor9 {
+
+}
+.contenerdor10 {
+
+}
+.contenerdor11 {
+
+}
+.contenerdor12 {
+
+}
+.contenerdor13 {
+
+}
+
 p, ul, li {
     color: black;
 }
