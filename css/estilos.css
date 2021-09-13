@@ -78,4 +78,11 @@ text-align: center;
 color: white;
 }
 
+#quien_soy{
+    text-align: center;
+}
+
+h1, h2, p, li{
+    color: white;
+}
 
