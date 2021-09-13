@@ -1,68 +1,71 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500&display=swap');
 
 
-body.portada{
-    background-image: url(../imagenes/portada-principal.jpg); 
+body{
+    background: url(../imagenes/portada-bajo-volumen.jpg); 
 }
 
-h1 {
+.contenedor-1 h1 i {
     font-family: 'Kaisei HarunoUmi', serif;
     text-align: center;
-    color: white;
+    color:white;
     line-height: 600px;
+}
+.contenedor-2 h1 p {
+font-family: 'Kaisei HarunoUmi', serif;
+text-align: center;
+color:white;
+line-height: 600px;
+}
+.contenedor-3 h1 h2{
+    font-family: 'Kaisei HarunoUmi',
+    serif;
+    text-align: center;
+    color:white;
+    line-height: 600px;
+}
+
+.contenedor-4 h1 p {
+font-family: 'Kaisei HarunoUmi',
+serif;
+text-align: center;
+color:white;
+line-height: 600px;
+
+}
+
+.contenedor-5 h1 li{
+    font-family: 'Kaisei HarunoUmi',
+    serif;
+    text-align: center;
+    color:white;
+    line-height: 600px;
+}
+.contenedor-6 h1 p {
+    font-family: 'Kaisei HarunoUmi',
+    serif;
+    text-align: center;
+    color:white;
+    line-height: 600px;
+
+}
+.contenedor-7 h1 p {
+    
+}
+.contenedor-8 h1 {
+    
+
+}
+img {
+    width:300px;
+    height:auto;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
 }
 
 i {
     color: white;
-}
-.contenerdor2 {
-    text-decoration-color: black; 
-    font-family: 'Kaisei HarunoUmi', serif;    
-}
-
-.contenerdor3 {
-    text-align: center;
-}
-
-.contenerdor4 {
-
-}
-
-.contenerdor5 {
-
-}
-
-.contenerdor6 {
-    background-color: black;
-
-}
-
-.contenerdor7 {
-
-}
-
-.contenerdor8 {
-
-}
-
-.contenerdor9 {
-
-}
-.contenerdor10 {
-
-}
-.contenerdor11 {
-
-}
-.contenerdor12 {
-
-}
-.contenerdor13 {
-
-}
-
-p, ul, li {
-    color: black;
 }
 
 a {
