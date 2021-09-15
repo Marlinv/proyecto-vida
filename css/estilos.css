@@ -78,10 +78,15 @@ color: white;
     text-align: center;
     color:white;
 }
-.la-class-10_metas_corto h1 h2 p li {
+.la-class-10_metas_corto h1 h2 p i {
     font-family: 'Kaisei HarunoUmi', serif;
     text-align: center;
     color:white;
+}
+p, li {
+font-family: 'Kaisei HarunoUmi', serif;
+text-align: left;
+color:white;
 }
 .la-class-11_metas_mediano h1 h2 p li{
     font-family: 'Kaisei HarunoUmi', serif;
